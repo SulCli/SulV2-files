@@ -1,4 +1,4 @@
-#  تنصيب سورس فير الجديد  V2 ⇓⇓⇓ 
+#  تنصيب سورس  الجديد  V2 ⇓⇓⇓ 
 
 ```
 cd ~;rm -rf SulV2;wget -q -O - "https://raw.githubusercontent.com/SulCil/SulV2/master/install.txt" | bash;cd SulV2;python3.8 setup.py
